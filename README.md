@@ -1,4 +1,4 @@
-# Login-cyl-advertise-form-html
+# Login--advertise-form-html
 <h2 align="left"> Made Using:
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -21,7 +21,8 @@
      The project is made in html only no css and java applied thats the reason why it looks soo basic<br>
       and the project is only about form filling i just wanted to show how a basic website works<br> by seeing
       other websites switch inshort this project is only about how does a login/form page is<br> created
-      and how does we get redireced to other sites<br>
-      <b>SURPRISE IN THE END:) <b>
+      and how does we get redireced to other sites and how does a normal advertised site can be designsed as<br>
+       i did advertise about my discord server in brief by adding title and suitable description.<br>
+      <br> <b>THERE'S SURPRISE REWARD FOR YOU IN THE END OF THE PAGE:)</b> 
     </p>
   </div>
